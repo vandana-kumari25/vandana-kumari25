@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandana-kumari25&label=Profile%20views&color=0e75b6&style=flat" alt="vandana-kumari25" /> </p>
 
-- 📫 How to reach me **vandanak.tech@gmail.com**
+- 📫 How to reach me ***vandanak.tech@gmail.com***
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IiKir7HSNICvwtV4emW65yMGfc56H8V0/view?usp=sharing](https://drive.google.com/file/d/1IiKir7HSNICvwtV4emW65yMGfc56H8V0/view?usp=sharing)
 
