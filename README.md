@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vandana Kumari</h1>
-<h3 align="center">Full-Stack Developer | AI Engineer | Python | Cloud Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer | Python | Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandana-kumari25&label=Profile%20views&color=0e75b6&style=flat" alt="vandana-kumari25" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **vandanak.tech@gmail.com**
 
