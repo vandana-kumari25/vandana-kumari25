@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandana-kumari25&show_icons=true&locale=en" alt="vandana-kumari25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandana-kumari25&" alt="vandana-kumari25" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vandana-kumari25)](https://git.io/streak-stats)
