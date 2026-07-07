@@ -19,6 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandana-kumari25&show_icons=true&locale=en" alt="vandana-kumari25" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vandana-kumari25)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vandana-kumari25)]
+(https://git.io/streak-stats)
 
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=Vandana_14&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
